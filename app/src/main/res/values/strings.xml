@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">The 10 Most Watched Videos on YouTube</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="namaVideo">
+        <item>Luis Fonsi – Despacito ft. Daddy Yankee</item>
+        <item>Ed Sheeran – Shape of You</item>
+        <item>Wiz Khalifa – See You Again ft. Charlie Puth [Furious 7 Soundtrack]</item>
+        <item>Masha and The Bear – Recipe for disaster (Episode 17)</item>
+        <item>Mark Ronson – Uptown Funk ft. Bruno Mars</item>
+        <item>Justin Bieber – Sorry (PURPOSE : The Movement)</item>
+        <item>Maroon 5 – Sugar</item>
+        <item>Taylor Swift – Shake It Off</item>
+        <item>Katy Perry – Roar (Official)</item>
+        <item>Ed Sheeran – Thinking Out Loud</item>
+    </string-array>
+
+    <string-array name="videoDetail">
+        <item>Urutan pertama untuk video paling banyak ditonton di Youtube adalah, musik video Luis Fonsi – Despacito ft. Daddy Yankee. Ya, lagu yang sangat populer dan sangat hits ini ternyata berhasil meraih penonton terbanyak dalam sejarah Youtube. Tercatat hingga tulisan ini dibuat, Luis Fonsi – Despacito ft. Daddy Yankee berhasil mendapatkan lebih dari 5 triliun penonton lho! Tentu saja jumlah penonton sampai triliunan ini adalah pencapaian yang sangat baik. Terlebih, tidak ada musik video lainnya yang mampu meraih hingga angka 5 triliun. Dirilis pada bulan Januari tahun 2017 silam, tidak menyurutkan para penontonnya hingga sekarang lho. Justru, video ini malah sering jadi incaran para pecinta video di Youtube.</item>
+        <item>Penyanyi kelas dunia, Ed Sheeran, juga menambah daftar dalam salah satu video paling banyak ditonton Youtube. Rasanya, hampir semua orang sudah pernah mendengarkan lagu ini, baik secara sengaja ataupun tidak sengaja. Bagaimana tidak, Ed Sheeran – Shape of You ini selalu diputar di mana pun, entah itu di kafe, mall, ataupun tempat lainnya. Melodi dan iramanya yang easy listening, tentu menjadi daya tarik sendiri bagi para penikmat musik. Maka itu, tak heran jika musik videonya yang dirilis tahun 2017 silam ini juga turut membuat orang penasaran hingga mendapatkan banyak penonton hingga 3.826.141.841 triliun lho! Dan, jumlah penontonnya selalu terus bertambah setiap harinya. Sangat hebat, bukan?</item>
+        <item>Tahu film Furious 7? Kalau begitu, Anda seharusnya pernah mendengarkan lagu Wiz Khalifa ft. Charlie Puth ini. Ya, lagu bertajuk See You Again ini berhasil mendapatkan posisi ketiga sebagai video paling banyak ditonton di Youtube. Hingga artikel ini ditulis, video ini sudah mencetak 3.787.814.366 triliun penonton! Sebelumnya, musik video ini pernah berada di posisi kedua sebelum digeser oleh Ed Sheeran dengan Shape of You. Meskipun sempat mengalami naik-turun, tapi soundtrack Furious 7 ini tetap memiliki tempat tersendiri di hati para penikmat lagu dan juga orang yang suka menonton video di Youtube. Apakah Anda salah satunya?</item>
+
+        <item>Bukan musik video dari penyanyi terkenal, melainkan salah satu episode dari sebuah kartun, Masha and The Bear ini mampu berada di posisi keempat sebagai video paling banyak ditonton di Youtube! Siapa yang menyangka, jika kartun ternyata bisa menyaingi musik video hingga mendapatkan penonton sebanyak 3.289.087.758 triliun?</item>
+
+        <item>Sudah ada 3.256.154.633 triliun penonton yang menonton video dari Mark Ronson ft. Bruno Mars ini. Tentu saja, dengan jumlah yang tidak bisa dibilang sedikit ini, Mark Ronson – Uptown Funk ft. Bruno Mars masuk ke dalam daftar video paling banyak ditonton di Youtube yang kelima. Meskipun tidak mencapai 5 triliun seperti Despacito, Uptown Funk adalah salah satu lagu yang hits pada masanya. Lagu ini pun membawa dampak baik terhadap musik videonya yang mampu menarik perhatian para pengguna Youtube. Apakah Anda salah satu yang terpikat dengan Mark Ronson – Uptown Funk ft. Bruno Mars?</item>
+
+        <item>Bukan hanya punya followers terbanyak di Instagram, Justin Bieber juga berhasil memiliki musik video di Youtube dengan jumlah penonton terbanyak. Lagu bertajuk Sorry ini mendapatkan 3.014.692.404 triliun penonton di Youtube lho! Sangat banyak!</item>
+
+        <item>Siapa yang tidak mengenal grup vokal Maroon 5? Sepertinya, penikmat musik sudah sangat hafal dengan dengan penyanyi ini, apalagi lagu yang bertajuk Sugar, yang sempat hits pada masanya. Jika Anda pernah mendengar, atau memang Sugar adalah lagu favorit Anda, maka Anda bisa berbangga hati. Sebab, Maroon 5 – Sugar ini juga masuk ke dalam kategori video yang punya jumlah penonton terbanyak di Youtube lho! Sudah lebih dari 2 triliun penonton, melakukan streaming musik video ini. Tentu saja bukan jumlah yang sedikit.</item>
+
+        <item>Tak lengkap rasanya tidak memasukan Taylor Swift sebagai salah satu yang punya viewers terbanyak di Youtube. Ya, lagu yang sangat populer sepanjang masa, Shake It Off, ini berhasil menduduki peringkat ke-8 dengan pencapaian 2.650.620.930 triliun penonton di Youtube!</item>
+
+        <item>Pencapaian viewers yang dimiliki Katy Perry ini juga tidak beda jauh dengan Taylor Swift, yakni 2.638.195.363 triliun. Meskipun belum bisa menyalip Taylor Swift, namun Katty Perry patut berbangga hati karena musik videonya berjudul Roar ini menempati peringkat kesembilan sebagai video Youtube yang paling banyak ditonton. Musik video dari Katty Perry ini terbilang unik di mana terdapat banyak binatang-binatang, dengan nuansa hutan. Terlepas dari videonya yang menarik dan ciamik, Roar juga merupakan salah satu musik yang adiktif dan membuat orang turut bernyanyi bersama. Setuju?</item>
+
+        <item>Sebagai penutup, lagi-lagi nama Ed Sheeran muncul dengan musik videonya yang punya banyak penonton di Youtube. Musik video yang bertajuk Thinking Out Loud ini ternyata mampu menyita perhatian 2.496.234.966 triliun penonton lho! Alunan musiknya yang lembut dengan tampilan video yang sangat ngena banget juga menjadi alasan tersendiri bagi penikmat musik dan pecinta Youtube. Untuk Anda yang belum pernah menonton videonya, coba klik link ini dan rasakan perasaan Anda turut hanyut dengan lagunya. </item>
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="gambarVideo">
+        <item>@drawable/despacito</item>
+        <item>@drawable/shapeofyou</item>
+        <item>@drawable/seeyouagain</item>
+        <item>@drawable/marsha</item>
+        <item>@drawable/uptownfunk</item>
+        <item>@drawable/sorry</item>
+        <item>@drawable/sugar</item>
+        <item>@drawable/shake</item>
+        <item>@drawable/roar</item>
+        <item>@drawable/thinking</item>
+    </string-array>
+</resources>
